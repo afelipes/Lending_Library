@@ -1,2 +1,2 @@
 # Lending_Library
-Lending library design with SQL and communication with java.
+Lending library design with SQL and java connexion.
